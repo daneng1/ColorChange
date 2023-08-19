@@ -11,6 +11,7 @@
 		49DC58C82A910E470045DD3C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DC58C72A910E470045DD3C /* ContentView.swift */; };
 		49DC58CA2A910E4B0045DD3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49DC58C92A910E4B0045DD3C /* Assets.xcassets */; };
 		49DC58CD2A910E4B0045DD3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49DC58CC2A910E4B0045DD3C /* Preview Assets.xcassets */; };
+		49DC58D42A911AF50045DD3C /* ColorViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DC58D32A911AF50045DD3C /* ColorViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		49DC58C72A910E470045DD3C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		49DC58C92A910E4B0045DD3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49DC58CC2A910E4B0045DD3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		49DC58D32A911AF50045DD3C /* ColorViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				49DC58C52A910E470045DD3C /* ColorChangeApp.swift */,
+				49DC58D32A911AF50045DD3C /* ColorViewModel.swift */,
 				49DC58C72A910E470045DD3C /* ContentView.swift */,
 				49DC58C92A910E4B0045DD3C /* Assets.xcassets */,
 				49DC58CB2A910E4B0045DD3C /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				49DC58C82A910E470045DD3C /* ContentView.swift in Sources */,
 				49DC58C62A910E470045DD3C /* ColorChangeApp.swift in Sources */,
+				49DC58D42A911AF50045DD3C /* ColorViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
